@@ -16,7 +16,7 @@ final class SelectIteratorTest extends TestCase
      * @test
      * @covers ::getIterator
      */
-    public function getIteratorYeildsResults()
+    public function getIteratorYieldsResults()
     {
         $iterator = new ArrayIterator(
            [
